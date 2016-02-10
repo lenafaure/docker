@@ -20,7 +20,7 @@ applications and databases.
 
 ![](docs/static_files/docker-logo-compressed.png "Docker")
 
-## Understanding Docker for non-developers
+## A quick intro for non-developers
 
 Think of the simplicity of installing an app on your smartphone : you push one button, the installation begins, and a few minutes later your app can run on your phone. 
 
